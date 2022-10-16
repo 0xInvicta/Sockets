@@ -1,2 +1,2 @@
 # Sockets</br>
-'Server --> Linux </br> Client --> Windows'
+[Server --> Linux </br> Client --> Windows]
